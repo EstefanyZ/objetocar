@@ -16,6 +16,9 @@ public class Objetocar {
      */
     public static void main(String[] args) {
         System.out.println("hola instituto");
+        String nombre="";
+        nombre="estefany";
+        System.out.println(nombre);
     }
     
 }
